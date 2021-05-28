@@ -1,3 +1,4 @@
-# realtime-chat-app
+REAL TIME CHAT APP
+Description: A real time chat application using socket.io in which users can enter their name and can send messages.
 
-Realtime chat app using socket.io and vanilla JavaScript
+TECHNOLOGY: NODEJS, SOCKET.IO, EXPRESSJS
